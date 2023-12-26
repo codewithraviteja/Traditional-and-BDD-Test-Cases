@@ -10,7 +10,7 @@ def test_gmail_compose_functionality():
     PATH = 'chromedriver'
 
     # Replace with your Gmail credentials
-    gmail_username = 'jogu.ravi31@gmail.com'
+    gmail_username = 'ravi.ravi@gmail.com'
     gmail_password = '9999999999'
 
     # Replace with the recipient's email address
